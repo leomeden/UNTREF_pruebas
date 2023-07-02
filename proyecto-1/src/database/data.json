@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"marca": "branca",
+		"nombre": "fernet",
+		"precio": "2500",
+		"stock": "1"
+	},
+	{
+		"id": 2,
+		"marca": "chocolinas",
+		"nombre": "galletitas",
+		"precio": "1000",
+		"stock": "5"
+	},
+	{
+		"id": 3,
+		"marca": "tang",
+		"nombre": "jugo en polvo",
+		"precio": "100",
+		"stock": "3"
+	}
+]
